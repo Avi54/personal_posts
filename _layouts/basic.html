@@ -47,9 +47,14 @@
         {% endif %}
 
         {{ content }}
+      <span class="likebtn-wrapper" data-white_label="true" data-dislike_enabled="false"></span>
+
       </div>
+      <!-- LikeBtn.com BEGIN -->
+      
     </main>
 
+    
     <footer class="site-footer">
       <div class="wrapper" style="text-align: center;">
         <p>{{ site.footer_description_basic }}</p>
@@ -68,5 +73,9 @@
     <script type="text/javascript" async
       src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
     </script>
+
+    <script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+    <!-- LikeBtn.com -->
+    
   </body>
 </html>
