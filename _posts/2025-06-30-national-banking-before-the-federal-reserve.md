@@ -82,7 +82,7 @@ The shortcomings in the system arose from the fact that the US, at the time, was
 2. withdrawal of $50 million from New York banks 
 3. Now below 25% reserve requirement (strictly enforced)
 4. New York or other big banks needed to call in call loans to meet immediate liquidity needs. Call loans usually given to speculators (stocks). The speculators then were forced to sell their stocks causing stock prices to fall.
-5. Stocks fell and interest rares rise 
+5. Stocks fell and interest rates rise 
 
 It was this seasonal instability that ultimately motivated the creation of central bank.
 
