@@ -1,0 +1,27 @@
+---
+layout: default
+paginate: true
+---
+
+<h2 class="post-list-heading">Posts</h2>
+
+<ul class="post-list">
+  {% for post in paginator.posts %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h3>
+    </li>
+  {% endfor %}
+</ul>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Previous</a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% endif %}
+</div>
