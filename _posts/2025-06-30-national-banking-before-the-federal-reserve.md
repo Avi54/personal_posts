@@ -4,7 +4,7 @@ title:  "National Banking System before the Federal Reserve"
 date:   2025-06-30
 categories:   finance
 ---
-[Previously]({% post_url 2025-06-29-financing-during-the-civil-war %}) I discussed how the North mobilized resources during the American Civil War. Salmon P. Chase did one more thing which led to the establishment of the national banking system in 1863 during the war. The subsequent challenges brought on by the system paved the way for the Fed.
+Previously I discussed how the North mobilized resources during the American Civil War. Salmon P. Chase did one more thing which led to the establishment of the national banking system in 1863 during the war. The subsequent challenges brought on by the system paved the way for the Fed.
 
 ## National Banking System
 
